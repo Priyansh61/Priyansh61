@@ -108,6 +108,19 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 <h2>Some Stats 💪</h2>
 <!--START_SECTION:waka-->
 
+```text
+From: 16 October 2022 - To: 23 October 2022
+
+Total Time: 6 hrs 16 mins
+
+TypeScript   2 hrs 21 mins   >>>>>>>>>----------------   37.60 %
+JavaScript   1 hr 37 mins    >>>>>>>------------------   26.00 %
+Java         1 hr 12 mins    >>>>>--------------------   19.23 %
+EJS          20 mins         >------------------------   05.31 %
+SQL          15 mins         >------------------------   04.15 %
+HTML         14 mins         >------------------------   03.83 %
+```
+
 <!--END_SECTION:waka-->
 
 <img  src="https://wakatime.com/share/@5d565710-de96-42b3-b282-b79f4836bc93/6eaeea6c-61ea-48fd-bc03-9ae7ee55f255.svg" height="400"></img>
