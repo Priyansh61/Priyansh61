@@ -106,6 +106,11 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
+<div align="left">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Priyansh61&theme=default&show_icons=true" />
+  </div>
+</div>
 <!--START_SECTION:waka-->
 
 ```text
