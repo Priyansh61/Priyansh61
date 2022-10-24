@@ -91,7 +91,7 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 </p>
 
 
-# Recent Activity :zap:
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16378](https://github.com/oppia/oppia/issues/16378) in [oppia/oppia](https://github.com/oppia/oppia)
 2. 💪 Opened PR [#16378](https://github.com/oppia/oppia/pull/16378) in [oppia/oppia](https://github.com/oppia/oppia)
@@ -105,9 +105,11 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 10. 💪 Opened PR [#16235](https://github.com/oppia/oppia/pull/16235) in [oppia/oppia](https://github.com/oppia/oppia)
 <!--END_SECTION:activity-->
 
-
+<h2>Some Stats 💪</h2>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+<img  src="https://wakatime.com/share/@5d565710-de96-42b3-b282-b79f4836bc93/6eaeea6c-61ea-48fd-bc03-9ae7ee55f255.svg" height="400"></img>
 
 
