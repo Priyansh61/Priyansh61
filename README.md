@@ -114,16 +114,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 29 October 2022
+From: 16 October 2022 - To: 30 October 2022
 
-Total Time: 18 hrs 1 min
+Total Time: 18 hrs 8 mins
 
-TypeScript   9 hrs 31 mins   >>>>>>>>>>>>>------------   52.84 %
-HTML         3 hrs 20 mins   >>>>>--------------------   18.55 %
-JavaScript   1 hr 54 mins    >>>----------------------   10.55 %
-Java         1 hr 12 mins    >>-----------------------   06.69 %
-JSON         26 mins         >------------------------   02.48 %
-EJS          20 mins         -------------------------   01.85 %
+TypeScript   9 hrs 38 mins   >>>>>>>>>>>>>------------   53.13 %
+HTML         3 hrs 20 mins   >>>>>--------------------   18.43 %
+JavaScript   1 hr 54 mins    >>>----------------------   10.48 %
+Java         1 hr 12 mins    >>-----------------------   06.65 %
+JSON         26 mins         >------------------------   02.46 %
+EJS          20 mins         -------------------------   01.84 %
 ```
 
 <!--END_SECTION:waka-->
