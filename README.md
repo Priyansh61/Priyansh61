@@ -94,15 +94,15 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
-2. 🗣 Commented on [#16278](https://github.com/oppia/oppia/issues/16278) in [oppia/oppia](https://github.com/oppia/oppia)
-3. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
-4. 💪 Opened PR [#29](https://github.com/BitByte-TPC/Aperta-Fons/pull/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
-5. 🗣 Commented on [#1](https://github.com/Priyansh61/Food-Delivery-Seller/issues/1) in [Priyansh61/Food-Delivery-Seller](https://github.com/Priyansh61/Food-Delivery-Seller)
-6. 🗣 Commented on [#16671](https://github.com/oppia/oppia/issues/16671) in [oppia/oppia](https://github.com/oppia/oppia)
-7. ❗️ Opened issue [#1](https://github.com/Priyansh61/Canteen-Management-User/issues/1) in [Priyansh61/Canteen-Management-User](https://github.com/Priyansh61/Canteen-Management-User)
-8. ❗️ Opened issue [#1](https://github.com/Priyansh61/Canteen-Management-App/issues/1) in [Priyansh61/Canteen-Management-App](https://github.com/Priyansh61/Canteen-Management-App)
-9. 🗣 Commented on [#16692](https://github.com/oppia/oppia/issues/16692) in [oppia/oppia](https://github.com/oppia/oppia)
-10. 💪 Opened PR [#16692](https://github.com/oppia/oppia/pull/16692) in [oppia/oppia](https://github.com/oppia/oppia)
+2. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
+3. 🗣 Commented on [#16278](https://github.com/oppia/oppia/issues/16278) in [oppia/oppia](https://github.com/oppia/oppia)
+4. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
+5. 💪 Opened PR [#29](https://github.com/BitByte-TPC/Aperta-Fons/pull/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
+6. 🗣 Commented on [#1](https://github.com/Priyansh61/Food-Delivery-Seller/issues/1) in [Priyansh61/Food-Delivery-Seller](https://github.com/Priyansh61/Food-Delivery-Seller)
+7. 🗣 Commented on [#16671](https://github.com/oppia/oppia/issues/16671) in [oppia/oppia](https://github.com/oppia/oppia)
+8. ❗️ Opened issue [#1](https://github.com/Priyansh61/Canteen-Management-User/issues/1) in [Priyansh61/Canteen-Management-User](https://github.com/Priyansh61/Canteen-Management-User)
+9. ❗️ Opened issue [#1](https://github.com/Priyansh61/Canteen-Management-App/issues/1) in [Priyansh61/Canteen-Management-App](https://github.com/Priyansh61/Canteen-Management-App)
+10. 🗣 Commented on [#16692](https://github.com/oppia/oppia/issues/16692) in [oppia/oppia](https://github.com/oppia/oppia)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
