@@ -94,15 +94,15 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
-2. 🗣 Commented on [#16378](https://github.com/oppia/oppia/issues/16378) in [oppia/oppia](https://github.com/oppia/oppia)
-3. ❗️ Closed issue [#16278](https://github.com/oppia/oppia/issues/16278) in [oppia/oppia](https://github.com/oppia/oppia)
-4. 🗣 Commented on [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
-5. 💪 Opened PR [#16794](https://github.com/oppia/oppia/pull/16794) in [oppia/oppia](https://github.com/oppia/oppia)
-6. 🗣 Commented on [#16387](https://github.com/oppia/oppia/issues/16387) in [oppia/oppia](https://github.com/oppia/oppia)
-7. 💪 Opened PR [#16747](https://github.com/oppia/oppia/pull/16747) in [oppia/oppia](https://github.com/oppia/oppia)
-8. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
+2. 🗣 Commented on [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
+3. 🗣 Commented on [#16378](https://github.com/oppia/oppia/issues/16378) in [oppia/oppia](https://github.com/oppia/oppia)
+4. ❗️ Closed issue [#16278](https://github.com/oppia/oppia/issues/16278) in [oppia/oppia](https://github.com/oppia/oppia)
+5. 🗣 Commented on [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
+6. 💪 Opened PR [#16794](https://github.com/oppia/oppia/pull/16794) in [oppia/oppia](https://github.com/oppia/oppia)
+7. 🗣 Commented on [#16387](https://github.com/oppia/oppia/issues/16387) in [oppia/oppia](https://github.com/oppia/oppia)
+8. 💪 Opened PR [#16747](https://github.com/oppia/oppia/pull/16747) in [oppia/oppia](https://github.com/oppia/oppia)
 9. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
-10. 🗣 Commented on [#16278](https://github.com/oppia/oppia/issues/16278) in [oppia/oppia](https://github.com/oppia/oppia)
+10. 🗣 Commented on [#29](https://github.com/BitByte-TPC/Aperta-Fons/issues/29) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
