@@ -93,16 +93,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15617](https://github.com/oppia/oppia/issues/15617) in [oppia/oppia](https://github.com/oppia/oppia)
-2. 🗣 Commented on [#17159](https://github.com/oppia/oppia/issues/17159) in [oppia/oppia](https://github.com/oppia/oppia)
-3. 🗣 Commented on [#15617](https://github.com/oppia/oppia/issues/15617) in [oppia/oppia](https://github.com/oppia/oppia)
-4. ❗️ Closed issue [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
-5. 🎉 Merged PR [#16964](https://github.com/oppia/oppia/pull/16964) in [oppia/oppia](https://github.com/oppia/oppia)
-6. 🗣 Commented on [#15617](https://github.com/oppia/oppia/issues/15617) in [oppia/oppia](https://github.com/oppia/oppia)
-7. 💪 Opened PR [#16964](https://github.com/oppia/oppia/pull/16964) in [oppia/oppia](https://github.com/oppia/oppia)
-8. 🎉 Merged PR [#2](https://github.com/Priyansh61/NEWS-APP/pull/2) in [Priyansh61/NEWS-APP](https://github.com/Priyansh61/NEWS-APP)
-9. 💪 Opened PR [#2](https://github.com/Priyansh61/NEWS-APP/pull/2) in [Priyansh61/NEWS-APP](https://github.com/Priyansh61/NEWS-APP)
-10. 🗣 Commented on [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
+1. 🗣 Commented on [#16816](https://github.com/oppia/oppia/issues/16816) in [oppia/oppia](https://github.com/oppia/oppia)
+2. 🗣 Commented on [#15617](https://github.com/oppia/oppia/issues/15617) in [oppia/oppia](https://github.com/oppia/oppia)
+3. 🗣 Commented on [#17159](https://github.com/oppia/oppia/issues/17159) in [oppia/oppia](https://github.com/oppia/oppia)
+4. 🗣 Commented on [#15617](https://github.com/oppia/oppia/issues/15617) in [oppia/oppia](https://github.com/oppia/oppia)
+5. ❗️ Closed issue [#16344](https://github.com/oppia/oppia/issues/16344) in [oppia/oppia](https://github.com/oppia/oppia)
+6. 🎉 Merged PR [#16964](https://github.com/oppia/oppia/pull/16964) in [oppia/oppia](https://github.com/oppia/oppia)
+7. 🗣 Commented on [#15617](https://github.com/oppia/oppia/issues/15617) in [oppia/oppia](https://github.com/oppia/oppia)
+8. 💪 Opened PR [#16964](https://github.com/oppia/oppia/pull/16964) in [oppia/oppia](https://github.com/oppia/oppia)
+9. 🎉 Merged PR [#2](https://github.com/Priyansh61/NEWS-APP/pull/2) in [Priyansh61/NEWS-APP](https://github.com/Priyansh61/NEWS-APP)
+10. 💪 Opened PR [#2](https://github.com/Priyansh61/NEWS-APP/pull/2) in [Priyansh61/NEWS-APP](https://github.com/Priyansh61/NEWS-APP)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
