@@ -93,16 +93,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17518](https://github.com/oppia/oppia/issues/17518) in [oppia/oppia](https://github.com/oppia/oppia)
-2. ❗️ Closed issue [#17013](https://github.com/oppia/oppia/issues/17013) in [oppia/oppia](https://github.com/oppia/oppia)
-3. 🎉 Merged PR [#17518](https://github.com/oppia/oppia/pull/17518) in [oppia/oppia](https://github.com/oppia/oppia)
-4. ❗️ Closed issue [#17305](https://github.com/oppia/oppia/issues/17305) in [oppia/oppia](https://github.com/oppia/oppia)
-5. 🎉 Merged PR [#17587](https://github.com/oppia/oppia/pull/17587) in [oppia/oppia](https://github.com/oppia/oppia)
-6. 🗣 Commented on [#17220](https://github.com/oppia/oppia/issues/17220) in [oppia/oppia](https://github.com/oppia/oppia)
-7. 🗣 Commented on [#17213](https://github.com/oppia/oppia/issues/17213) in [oppia/oppia](https://github.com/oppia/oppia)
-8. 🗣 Commented on [#17326](https://github.com/oppia/oppia/issues/17326) in [oppia/oppia](https://github.com/oppia/oppia)
-9. 🗣 Commented on [#17326](https://github.com/oppia/oppia/issues/17326) in [oppia/oppia](https://github.com/oppia/oppia)
-10. 🗣 Commented on [#17219](https://github.com/oppia/oppia/issues/17219) in [oppia/oppia](https://github.com/oppia/oppia)
+1. ❗️ Closed issue [#17497](https://github.com/oppia/oppia/issues/17497) in [oppia/oppia](https://github.com/oppia/oppia)
+2. 🗣 Commented on [#17497](https://github.com/oppia/oppia/issues/17497) in [oppia/oppia](https://github.com/oppia/oppia)
+3. 🗣 Commented on [#17518](https://github.com/oppia/oppia/issues/17518) in [oppia/oppia](https://github.com/oppia/oppia)
+4. ❗️ Closed issue [#17013](https://github.com/oppia/oppia/issues/17013) in [oppia/oppia](https://github.com/oppia/oppia)
+5. 🎉 Merged PR [#17518](https://github.com/oppia/oppia/pull/17518) in [oppia/oppia](https://github.com/oppia/oppia)
+6. ❗️ Closed issue [#17305](https://github.com/oppia/oppia/issues/17305) in [oppia/oppia](https://github.com/oppia/oppia)
+7. 🎉 Merged PR [#17587](https://github.com/oppia/oppia/pull/17587) in [oppia/oppia](https://github.com/oppia/oppia)
+8. 🗣 Commented on [#17220](https://github.com/oppia/oppia/issues/17220) in [oppia/oppia](https://github.com/oppia/oppia)
+9. 🗣 Commented on [#17213](https://github.com/oppia/oppia/issues/17213) in [oppia/oppia](https://github.com/oppia/oppia)
+10. 🗣 Commented on [#17326](https://github.com/oppia/oppia/issues/17326) in [oppia/oppia](https://github.com/oppia/oppia)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
