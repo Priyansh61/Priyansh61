@@ -93,16 +93,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17784](https://github.com/oppia/oppia/issues/17784) in [oppia/oppia](https://github.com/oppia/oppia)
-2. 🗣 Commented on [#17776](https://github.com/oppia/oppia/issues/17776) in [oppia/oppia](https://github.com/oppia/oppia)
-3. 🗣 Commented on [#16893](https://github.com/oppia/oppia/issues/16893) in [oppia/oppia](https://github.com/oppia/oppia)
-4. 🗣 Commented on [#17811](https://github.com/oppia/oppia/issues/17811) in [oppia/oppia](https://github.com/oppia/oppia)
-5. 🗣 Commented on [#17810](https://github.com/oppia/oppia/issues/17810) in [oppia/oppia](https://github.com/oppia/oppia)
-6. 🗣 Commented on [#12912](https://github.com/oppia/oppia/issues/12912) in [oppia/oppia](https://github.com/oppia/oppia)
-7. 🗣 Commented on [#17811](https://github.com/oppia/oppia/issues/17811) in [oppia/oppia](https://github.com/oppia/oppia)
-8. 🗣 Commented on [#16967](https://github.com/oppia/oppia/issues/16967) in [oppia/oppia](https://github.com/oppia/oppia)
-9. 🗣 Commented on [#16960](https://github.com/oppia/oppia/issues/16960) in [oppia/oppia](https://github.com/oppia/oppia)
-10. 🗣 Commented on [#17210](https://github.com/oppia/oppia/issues/17210) in [oppia/oppia](https://github.com/oppia/oppia)
+1. 🗣 Commented on [#17763](https://github.com/oppia/oppia/issues/17763) in [oppia/oppia](https://github.com/oppia/oppia)
+2. 🗣 Commented on [#17784](https://github.com/oppia/oppia/issues/17784) in [oppia/oppia](https://github.com/oppia/oppia)
+3. 🗣 Commented on [#17776](https://github.com/oppia/oppia/issues/17776) in [oppia/oppia](https://github.com/oppia/oppia)
+4. 🗣 Commented on [#16893](https://github.com/oppia/oppia/issues/16893) in [oppia/oppia](https://github.com/oppia/oppia)
+5. 🗣 Commented on [#17811](https://github.com/oppia/oppia/issues/17811) in [oppia/oppia](https://github.com/oppia/oppia)
+6. 🗣 Commented on [#17810](https://github.com/oppia/oppia/issues/17810) in [oppia/oppia](https://github.com/oppia/oppia)
+7. 🗣 Commented on [#12912](https://github.com/oppia/oppia/issues/12912) in [oppia/oppia](https://github.com/oppia/oppia)
+8. 🗣 Commented on [#17811](https://github.com/oppia/oppia/issues/17811) in [oppia/oppia](https://github.com/oppia/oppia)
+9. 🗣 Commented on [#16967](https://github.com/oppia/oppia/issues/16967) in [oppia/oppia](https://github.com/oppia/oppia)
+10. 🗣 Commented on [#16960](https://github.com/oppia/oppia/issues/16960) in [oppia/oppia](https://github.com/oppia/oppia)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
