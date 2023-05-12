@@ -23,18 +23,19 @@ name: Priyansh
 located_in: India
 education: Currently 2nd year Computer Science Student from IIIT Jabalpur
 past experiences: 
-  - ["Collabrator "@Oppia","2022-present"]
-  - ["Team Member", "Bitbyte(The Programming Club) IIITDMJ", "2022-present"]
+  - ["Maintainer "@Oppia","2022-present"]
+  - ["Co-Coordinator", "Bitbyte(The Programming Club) IIITDMJ", "2022-present"]
+  - ["Software Developer Intern", "Varivas Limited", "Dec,2022 - March,2023"]
   - ["Mentor", "Global Pahtfinder", "2019-2021"]
 
 code: ["Javascript", "Python", "Java", "PHP","C","C++"]
 askMeAbout: ["web dev", "tech", "Open Source", "Books"],
 technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express","Python"],
         },
-        frontEnd: ["Angular","Tailwind","Typescript"]
-        databases: ["mongo", "MySql"],
+        frontEnd: ["Angular","Tailwind","Typescript","Vue","React"]
+        databases: ["mongo", "MySql","Neo4j","Redis","Kafka"],
         misc: ["Firebase", "open-cv", "php"]
     },
 
