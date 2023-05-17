@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
-2. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
-4. 🗣 Commented on [#1582](https://github.com/asyncapi/website/issues/1582) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 💪 Opened PR [#1668](https://github.com/asyncapi/website/pull/1668) in [asyncapi/website](https://github.com/asyncapi/website)
-6. 🎉 Merged PR [#2](https://github.com/Waishnav/Doc-AI/pull/2) in [Waishnav/Doc-AI](https://github.com/Waishnav/Doc-AI)
-7. 💪 Opened PR [#2](https://github.com/Waishnav/Doc-AI/pull/2) in [Waishnav/Doc-AI](https://github.com/Waishnav/Doc-AI)
-8. ❗️ Closed issue [#17983](https://github.com/oppia/oppia/issues/17983) in [oppia/oppia](https://github.com/oppia/oppia)
-9. 🎉 Merged PR [#18131](https://github.com/oppia/oppia/pull/18131) in [oppia/oppia](https://github.com/oppia/oppia)
-10. ❗️ Closed issue [#17982](https://github.com/oppia/oppia/issues/17982) in [oppia/oppia](https://github.com/oppia/oppia)
+1. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
+3. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
+5. 🗣 Commented on [#1582](https://github.com/asyncapi/website/issues/1582) in [asyncapi/website](https://github.com/asyncapi/website)
+6. 💪 Opened PR [#1668](https://github.com/asyncapi/website/pull/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+7. 🎉 Merged PR [#2](https://github.com/Waishnav/Doc-AI/pull/2) in [Waishnav/Doc-AI](https://github.com/Waishnav/Doc-AI)
+8. 💪 Opened PR [#2](https://github.com/Waishnav/Doc-AI/pull/2) in [Waishnav/Doc-AI](https://github.com/Waishnav/Doc-AI)
+9. ❗️ Closed issue [#17983](https://github.com/oppia/oppia/issues/17983) in [oppia/oppia](https://github.com/oppia/oppia)
+10. 🎉 Merged PR [#18131](https://github.com/oppia/oppia/pull/18131) in [oppia/oppia](https://github.com/oppia/oppia)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
