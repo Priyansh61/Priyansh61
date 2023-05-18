@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
-3. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
-5. 🗣 Commented on [#1582](https://github.com/asyncapi/website/issues/1582) in [asyncapi/website](https://github.com/asyncapi/website)
-6. 💪 Opened PR [#1668](https://github.com/asyncapi/website/pull/1668) in [asyncapi/website](https://github.com/asyncapi/website)
-7. 🎉 Merged PR [#2](https://github.com/Waishnav/Doc-AI/pull/2) in [Waishnav/Doc-AI](https://github.com/Waishnav/Doc-AI)
-8. 💪 Opened PR [#2](https://github.com/Waishnav/Doc-AI/pull/2) in [Waishnav/Doc-AI](https://github.com/Waishnav/Doc-AI)
-9. ❗️ Closed issue [#17983](https://github.com/oppia/oppia/issues/17983) in [oppia/oppia](https://github.com/oppia/oppia)
-10. 🎉 Merged PR [#18131](https://github.com/oppia/oppia/pull/18131) in [oppia/oppia](https://github.com/oppia/oppia)
+1. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+2. 💪 Opened PR [#2](https://github.com/Priyansh61/Async-API-website/pull/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+3. 🎉 Merged PR [#1](https://github.com/Priyansh61/Async-API-website/pull/1) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+4. 💪 Opened PR [#1](https://github.com/Priyansh61/Async-API-website/pull/1) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+5. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+6. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
+7. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+8. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
+9. 🗣 Commented on [#1582](https://github.com/asyncapi/website/issues/1582) in [asyncapi/website](https://github.com/asyncapi/website)
+10. 💪 Opened PR [#1668](https://github.com/asyncapi/website/pull/1668) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
