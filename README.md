@@ -103,7 +103,7 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 7. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 8. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 9. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
-10. 💪 Opened PR [#2](https://github.com/Priyansh61/Async-API-website/pull/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+10. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
