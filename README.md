@@ -94,15 +94,15 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Priyansh61/BSoC/pull/7) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-2. 🎉 Merged PR [#6](https://github.com/Priyansh61/BSoC/pull/6) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-3. ❌ Closed PR [#2](https://github.com/Priyansh61/BSoC/pull/2) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-4. 🗣 Commented on [#5](https://github.com/Priyansh61/BSoC/issues/5) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-5. 🎉 Merged PR [#1](https://github.com/Priyansh61/BSoC/pull/1) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-6. 🗣 Commented on [#2470](https://github.com/WasmEdge/WasmEdge/issues/2470) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-7. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
-8. 💪 Opened PR [#239](https://github.com/asyncapi/.github/pull/239) in [asyncapi/.github](https://github.com/asyncapi/.github)
-9. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+1. 💪 Opened PR [#15](https://github.com/Priyansh61/BSoC/pull/15) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+2. 🎉 Merged PR [#7](https://github.com/Priyansh61/BSoC/pull/7) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+3. 🎉 Merged PR [#6](https://github.com/Priyansh61/BSoC/pull/6) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+4. ❌ Closed PR [#2](https://github.com/Priyansh61/BSoC/pull/2) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+5. 🗣 Commented on [#5](https://github.com/Priyansh61/BSoC/issues/5) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+6. 🎉 Merged PR [#1](https://github.com/Priyansh61/BSoC/pull/1) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+7. 🗣 Commented on [#2470](https://github.com/WasmEdge/WasmEdge/issues/2470) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+8. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
+9. 💪 Opened PR [#239](https://github.com/asyncapi/.github/pull/239) in [asyncapi/.github](https://github.com/asyncapi/.github)
 10. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 <!--END_SECTION:activity-->
 
