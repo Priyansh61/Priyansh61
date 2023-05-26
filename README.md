@@ -98,12 +98,12 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 2. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 3. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 4. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
-5. 🗣 Commented on [#3](https://github.com/Priyansh61/Async-API-website/issues/3) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
-6. 🎉 Merged PR [#3](https://github.com/Priyansh61/Async-API-website/pull/3) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
-7. 💪 Opened PR [#3](https://github.com/Priyansh61/Async-API-website/pull/3) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
-8. ❗️ Opened issue [#16](https://github.com/Priyansh61/BSoC/issues/16) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-9. 💪 Opened PR [#15](https://github.com/Priyansh61/BSoC/pull/15) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-10. 🎉 Merged PR [#7](https://github.com/Priyansh61/BSoC/pull/7) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+5. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+6. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+7. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+8. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+9. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+10. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
