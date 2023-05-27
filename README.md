@@ -94,9 +94,9 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/bsoc-bitbyte/busify/issues/4) in [bsoc-bitbyte/busify](https://github.com/bsoc-bitbyte/busify)
-2. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
-3. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+1. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+2. 🗣 Commented on [#4](https://github.com/bsoc-bitbyte/busify/issues/4) in [bsoc-bitbyte/busify](https://github.com/bsoc-bitbyte/busify)
+3. 🗣 Commented on [#211](https://github.com/asyncapi/.github/issues/211) in [asyncapi/.github](https://github.com/asyncapi/.github)
 4. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 5. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 6. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
