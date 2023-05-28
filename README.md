@@ -94,12 +94,12 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-2. 💪 Opened PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-3. 🎉 Merged PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-4. 💪 Opened PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-5. 💪 Opened PR [#243](https://github.com/asyncapi/.github/pull/243) in [asyncapi/.github](https://github.com/asyncapi/.github)
-6. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+1. ❌ Reopened PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+2. 🎉 Merged PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+3. 💪 Opened PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+4. 🎉 Merged PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+5. 💪 Opened PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+6. 💪 Opened PR [#243](https://github.com/asyncapi/.github/pull/243) in [asyncapi/.github](https://github.com/asyncapi/.github)
 7. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 8. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
 9. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
