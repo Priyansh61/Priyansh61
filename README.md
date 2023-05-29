@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-2. 🎉 Merged PR [#24](https://github.com/Priyansh61/BSoC/pull/24) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-3. 🎉 Merged PR [#18](https://github.com/Priyansh61/BSoC/pull/18) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-4. ❌ Reopened PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-5. 🎉 Merged PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-6. 💪 Opened PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-7. 🎉 Merged PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-8. 💪 Opened PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-9. 💪 Opened PR [#243](https://github.com/asyncapi/.github/pull/243) in [asyncapi/.github](https://github.com/asyncapi/.github)
-10. 🗣 Commented on [#2](https://github.com/Priyansh61/Async-API-website/issues/2) in [Priyansh61/Async-API-website](https://github.com/Priyansh61/Async-API-website)
+1. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+2. ❌ Closed PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+3. 🎉 Merged PR [#24](https://github.com/Priyansh61/BSoC/pull/24) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+4. 🎉 Merged PR [#18](https://github.com/Priyansh61/BSoC/pull/18) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+5. ❌ Reopened PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+6. 🎉 Merged PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+7. 💪 Opened PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+8. 🎉 Merged PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+9. 💪 Opened PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+10. 💪 Opened PR [#243](https://github.com/asyncapi/.github/pull/243) in [asyncapi/.github](https://github.com/asyncapi/.github)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
