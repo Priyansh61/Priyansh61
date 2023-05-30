@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#599](https://github.com/asyncapi/cli/issues/599) in [asyncapi/cli](https://github.com/asyncapi/cli)
-2. 🗣 Commented on [#10](https://github.com/Priyansh61/Space-Fighters/issues/10) in [Priyansh61/Space-Fighters](https://github.com/Priyansh61/Space-Fighters)
-3. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
-4. ❌ Closed PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-5. 🎉 Merged PR [#24](https://github.com/Priyansh61/BSoC/pull/24) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-6. 🎉 Merged PR [#18](https://github.com/Priyansh61/BSoC/pull/18) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-7. ❌ Reopened PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-8. 🎉 Merged PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-9. 💪 Opened PR [#25](https://github.com/Priyansh61/BSoC/pull/25) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-10. 🎉 Merged PR [#23](https://github.com/Priyansh61/BSoC/pull/23) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+1. 🎉 Merged PR [#26](https://github.com/Priyansh61/BSoC/pull/26) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+2. 🎉 Merged PR [#27](https://github.com/Priyansh61/BSoC/pull/27) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+3. 🗣 Commented on [#27](https://github.com/Priyansh61/BSoC/issues/27) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+4. 🗣 Commented on [#599](https://github.com/asyncapi/cli/issues/599) in [asyncapi/cli](https://github.com/asyncapi/cli)
+5. 🗣 Commented on [#10](https://github.com/Priyansh61/Space-Fighters/issues/10) in [Priyansh61/Space-Fighters](https://github.com/Priyansh61/Space-Fighters)
+6. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+7. ❌ Closed PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+8. 🎉 Merged PR [#24](https://github.com/Priyansh61/BSoC/pull/24) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+9. 🎉 Merged PR [#18](https://github.com/Priyansh61/BSoC/pull/18) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+10. ❌ Reopened PR [#21](https://github.com/Priyansh61/BSoC/pull/21) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
