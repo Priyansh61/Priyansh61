@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/Priyansh61/BSoC/issues/29) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-2. 🎉 Merged PR [#30](https://github.com/Priyansh61/BSoC/pull/30) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-3. 🔒 Closed issue [#3](https://github.com/bsoc-bitbyte/LetsBuy/issues/3) in [bsoc-bitbyte/LetsBuy](https://github.com/bsoc-bitbyte/LetsBuy)
-4. 🗣 Commented on [#3](https://github.com/bsoc-bitbyte/LetsBuy/issues/3) in [bsoc-bitbyte/LetsBuy](https://github.com/bsoc-bitbyte/LetsBuy)
-5. 🎉 Merged PR [#26](https://github.com/Priyansh61/BSoC/pull/26) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-6. 🎉 Merged PR [#27](https://github.com/Priyansh61/BSoC/pull/27) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-7. 🗣 Commented on [#27](https://github.com/Priyansh61/BSoC/issues/27) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
-8. 🗣 Commented on [#599](https://github.com/asyncapi/cli/issues/599) in [asyncapi/cli](https://github.com/asyncapi/cli)
-9. 🗣 Commented on [#10](https://github.com/Priyansh61/Space-Fighters/issues/10) in [Priyansh61/Space-Fighters](https://github.com/Priyansh61/Space-Fighters)
-10. 🗣 Commented on [#1668](https://github.com/asyncapi/website/issues/1668) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#28](https://github.com/Priyansh61/BSoC/issues/28) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+2. 🗣 Commented on [#29](https://github.com/Priyansh61/BSoC/issues/29) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+3. 🎉 Merged PR [#30](https://github.com/Priyansh61/BSoC/pull/30) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+4. 🔒 Closed issue [#3](https://github.com/bsoc-bitbyte/LetsBuy/issues/3) in [bsoc-bitbyte/LetsBuy](https://github.com/bsoc-bitbyte/LetsBuy)
+5. 🗣 Commented on [#3](https://github.com/bsoc-bitbyte/LetsBuy/issues/3) in [bsoc-bitbyte/LetsBuy](https://github.com/bsoc-bitbyte/LetsBuy)
+6. 🎉 Merged PR [#26](https://github.com/Priyansh61/BSoC/pull/26) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+7. 🎉 Merged PR [#27](https://github.com/Priyansh61/BSoC/pull/27) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+8. 🗣 Commented on [#27](https://github.com/Priyansh61/BSoC/issues/27) in [Priyansh61/BSoC](https://github.com/Priyansh61/BSoC)
+9. 🗣 Commented on [#599](https://github.com/asyncapi/cli/issues/599) in [asyncapi/cli](https://github.com/asyncapi/cli)
+10. 🗣 Commented on [#10](https://github.com/Priyansh61/Space-Fighters/issues/10) in [Priyansh61/Space-Fighters](https://github.com/Priyansh61/Space-Fighters)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
