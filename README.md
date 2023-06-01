@@ -115,15 +115,15 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 29 May 2023
+From: 16 October 2022 - To: 30 May 2023
 
-Total Time: 382 hrs 41 mins
+Total Time: 383 hrs 37 mins
 
-TypeScript    173 hrs 6 mins  >>>>>>>>>>>--------------   45.24 %
-HTML          56 hrs 50 mins  >>>>---------------------   14.85 %
-Python        46 hrs 31 mins  >>>----------------------   12.16 %
-JavaScript    30 hrs 41 mins  >>-----------------------   08.02 %
-SCSS          17 hrs 17 mins  >------------------------   04.52 %
+TypeScript    173 hrs 6 mins  >>>>>>>>>>>--------------   45.13 %
+HTML          56 hrs 50 mins  >>>>---------------------   14.82 %
+Python        46 hrs 31 mins  >>>----------------------   12.13 %
+JavaScript    30 hrs 41 mins  >>-----------------------   08.00 %
+SCSS          17 hrs 17 mins  >------------------------   04.51 %
 ```
 
 <!--END_SECTION:waka-->
