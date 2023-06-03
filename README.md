@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/bsoc-bitbyte/BSoC-Website/issues/31) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-2. ❗ Opened issue [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-3. ❗ Opened issue [#34](https://github.com/bsoc-bitbyte/BSoC-Website/issues/34) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-4. ❗ Opened issue [#33](https://github.com/bsoc-bitbyte/BSoC-Website/issues/33) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-5. 🗣 Commented on [#559](https://github.com/asyncapi/cli/issues/559) in [asyncapi/cli](https://github.com/asyncapi/cli)
-6. 🗣 Commented on [#1](https://github.com/bsoc-bitbyte/GetIt/issues/1) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-7. 🎉 Merged PR [#32](https://github.com/bsoc-bitbyte/BSoC-Website/pull/32) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-8. 💪 Opened PR [#32](https://github.com/bsoc-bitbyte/BSoC-Website/pull/32) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-9. 🎉 Merged PR [#28](https://github.com/bsoc-bitbyte/BSoC-Website/pull/28) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-10. 🗣 Commented on [#28](https://github.com/bsoc-bitbyte/BSoC-Website/issues/28) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+1. 🔒 Closed issue [#1](https://github.com/bsoc-bitbyte/GetIt/issues/1) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 🎉 Merged PR [#5](https://github.com/bsoc-bitbyte/GetIt/pull/5) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🗣 Commented on [#31](https://github.com/bsoc-bitbyte/BSoC-Website/issues/31) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+4. ❗ Opened issue [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+5. ❗ Opened issue [#34](https://github.com/bsoc-bitbyte/BSoC-Website/issues/34) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+6. ❗ Opened issue [#33](https://github.com/bsoc-bitbyte/BSoC-Website/issues/33) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+7. 🗣 Commented on [#559](https://github.com/asyncapi/cli/issues/559) in [asyncapi/cli](https://github.com/asyncapi/cli)
+8. 🗣 Commented on [#1](https://github.com/bsoc-bitbyte/GetIt/issues/1) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+9. 🎉 Merged PR [#32](https://github.com/bsoc-bitbyte/BSoC-Website/pull/32) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+10. 💪 Opened PR [#32](https://github.com/bsoc-bitbyte/BSoC-Website/pull/32) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
