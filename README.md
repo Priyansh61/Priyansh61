@@ -94,15 +94,15 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-2. 🗣 Commented on [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-3. 🎉 Merged PR [#38](https://github.com/bsoc-bitbyte/BSoC-Website/pull/38) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-4. 🗣 Commented on [#38](https://github.com/bsoc-bitbyte/BSoC-Website/issues/38) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+1. 💪 Opened PR [#513](https://github.com/zowe/zlux-app-manager/pull/513) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
+2. 🔒 Closed issue [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+3. 🗣 Commented on [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+4. 🎉 Merged PR [#38](https://github.com/bsoc-bitbyte/BSoC-Website/pull/38) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
 5. 🗣 Commented on [#38](https://github.com/bsoc-bitbyte/BSoC-Website/issues/38) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-6. 🗣 Commented on [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-7. 🗣 Commented on [#1](https://github.com/ELEVATE-Project/project-frontend/issues/1) in [ELEVATE-Project/project-frontend](https://github.com/ELEVATE-Project/project-frontend)
-8. 🗣 Commented on [#4](https://github.com/bsoc-bitbyte/GetIt/issues/4) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-9. 🗣 Commented on [#34](https://github.com/bsoc-bitbyte/BSoC-Website/issues/34) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+6. 🗣 Commented on [#38](https://github.com/bsoc-bitbyte/BSoC-Website/issues/38) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+7. 🗣 Commented on [#35](https://github.com/bsoc-bitbyte/BSoC-Website/issues/35) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+8. 🗣 Commented on [#1](https://github.com/ELEVATE-Project/project-frontend/issues/1) in [ELEVATE-Project/project-frontend](https://github.com/ELEVATE-Project/project-frontend)
+9. 🗣 Commented on [#4](https://github.com/bsoc-bitbyte/GetIt/issues/4) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 10. 🗣 Commented on [#34](https://github.com/bsoc-bitbyte/BSoC-Website/issues/34) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
 <!--END_SECTION:activity-->
 
