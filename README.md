@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/bsoc-bitbyte/GetIt/issues/4) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. 🗣 Commented on [#10](https://github.com/bsoc-bitbyte/GetIt/issues/10) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 🗣 Commented on [#15](https://github.com/bsoc-bitbyte/GetIt/issues/15) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. 🔒 Closed issue [#19](https://github.com/bsoc-bitbyte/GetIt/issues/19) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 🗣 Commented on [#17](https://github.com/bsoc-bitbyte/GetIt/issues/17) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. 🎉 Merged PR [#21](https://github.com/bsoc-bitbyte/GetIt/pull/21) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-7. 🗣 Commented on [#33](https://github.com/bsoc-bitbyte/BSoC-Website/issues/33) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-8. 🗣 Commented on [#43](https://github.com/bsoc-bitbyte/BSoC-Website/issues/43) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-9. 🎉 Merged PR [#11](https://github.com/bsoc-bitbyte/GetIt/pull/11) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-10. 🎉 Merged PR [#20](https://github.com/bsoc-bitbyte/GetIt/pull/20) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+1. 💪 Opened PR [#209](https://github.com/zowe/zlux-file-explorer/pull/209) in [zowe/zlux-file-explorer](https://github.com/zowe/zlux-file-explorer)
+2. 🔒 Closed issue [#4](https://github.com/bsoc-bitbyte/GetIt/issues/4) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🗣 Commented on [#10](https://github.com/bsoc-bitbyte/GetIt/issues/10) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. 🗣 Commented on [#15](https://github.com/bsoc-bitbyte/GetIt/issues/15) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. 🔒 Closed issue [#19](https://github.com/bsoc-bitbyte/GetIt/issues/19) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. 🗣 Commented on [#17](https://github.com/bsoc-bitbyte/GetIt/issues/17) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+7. 🎉 Merged PR [#21](https://github.com/bsoc-bitbyte/GetIt/pull/21) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+8. 🗣 Commented on [#33](https://github.com/bsoc-bitbyte/BSoC-Website/issues/33) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+9. 🗣 Commented on [#43](https://github.com/bsoc-bitbyte/BSoC-Website/issues/43) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+10. 🎉 Merged PR [#11](https://github.com/bsoc-bitbyte/GetIt/pull/11) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
