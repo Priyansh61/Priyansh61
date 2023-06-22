@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#27](https://github.com/bsoc-bitbyte/GetIt/issues/27) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. ❗ Opened issue [#25](https://github.com/bsoc-bitbyte/GetIt/issues/25) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 🗣 Commented on [#23](https://github.com/bsoc-bitbyte/GetIt/issues/23) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. ❗ Opened issue [#23](https://github.com/bsoc-bitbyte/GetIt/issues/23) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. ❗ Opened issue [#22](https://github.com/bsoc-bitbyte/GetIt/issues/22) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. 💪 Opened PR [#209](https://github.com/zowe/zlux-file-explorer/pull/209) in [zowe/zlux-file-explorer](https://github.com/zowe/zlux-file-explorer)
-7. 🔒 Closed issue [#4](https://github.com/bsoc-bitbyte/GetIt/issues/4) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-8. 🗣 Commented on [#10](https://github.com/bsoc-bitbyte/GetIt/issues/10) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-9. 🗣 Commented on [#15](https://github.com/bsoc-bitbyte/GetIt/issues/15) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-10. 🔒 Closed issue [#19](https://github.com/bsoc-bitbyte/GetIt/issues/19) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+1. 🗣 Commented on [#24](https://github.com/bsoc-bitbyte/GetIt/issues/24) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 🗣 Commented on [#23](https://github.com/bsoc-bitbyte/GetIt/issues/23) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🗣 Commented on [#27](https://github.com/bsoc-bitbyte/GetIt/issues/27) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. ❗ Opened issue [#27](https://github.com/bsoc-bitbyte/GetIt/issues/27) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. ❗ Opened issue [#25](https://github.com/bsoc-bitbyte/GetIt/issues/25) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. 🗣 Commented on [#23](https://github.com/bsoc-bitbyte/GetIt/issues/23) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+7. ❗ Opened issue [#23](https://github.com/bsoc-bitbyte/GetIt/issues/23) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+8. ❗ Opened issue [#22](https://github.com/bsoc-bitbyte/GetIt/issues/22) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+9. 💪 Opened PR [#209](https://github.com/zowe/zlux-file-explorer/pull/209) in [zowe/zlux-file-explorer](https://github.com/zowe/zlux-file-explorer)
+10. 🔒 Closed issue [#4](https://github.com/bsoc-bitbyte/GetIt/issues/4) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
