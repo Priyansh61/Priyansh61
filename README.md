@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/bsoc-bitbyte/GetIt/issues/37) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. 🎉 Merged PR [#34](https://github.com/bsoc-bitbyte/GetIt/pull/34) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 🗣 Commented on [#34](https://github.com/bsoc-bitbyte/GetIt/issues/34) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. 🗣 Commented on [#22](https://github.com/bsoc-bitbyte/GetIt/issues/22) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 🗣 Commented on [#21](https://github.com/bsoc-bitbyte/GetIt/issues/21) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. 🗣 Commented on [#29](https://github.com/bsoc-bitbyte/GetIt/issues/29) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+1. 🎉 Merged PR [#38](https://github.com/bsoc-bitbyte/GetIt/pull/38) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 🗣 Commented on [#37](https://github.com/bsoc-bitbyte/GetIt/issues/37) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🎉 Merged PR [#34](https://github.com/bsoc-bitbyte/GetIt/pull/34) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. 🗣 Commented on [#34](https://github.com/bsoc-bitbyte/GetIt/issues/34) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. 🗣 Commented on [#22](https://github.com/bsoc-bitbyte/GetIt/issues/22) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. 🗣 Commented on [#21](https://github.com/bsoc-bitbyte/GetIt/issues/21) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 7. 🗣 Commented on [#29](https://github.com/bsoc-bitbyte/GetIt/issues/29) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-8. 💪 Opened PR [#336](https://github.com/zowe/zlux-editor/pull/336) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
-9. ❌ Closed PR [#333](https://github.com/zowe/zlux-editor/pull/333) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
-10. 🗣 Commented on [#333](https://github.com/zowe/zlux-editor/issues/333) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
+8. 🗣 Commented on [#29](https://github.com/bsoc-bitbyte/GetIt/issues/29) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+9. 💪 Opened PR [#336](https://github.com/zowe/zlux-editor/pull/336) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
+10. ❌ Closed PR [#333](https://github.com/zowe/zlux-editor/pull/333) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
