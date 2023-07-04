@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/bsoc-bitbyte/BSoC-Website/issues/43) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
-2. 🗣 Commented on [#11](https://github.com/bsoc-bitbyte/GetIt/issues/11) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 🗣 Commented on [#41](https://github.com/bsoc-bitbyte/GetIt/issues/41) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. 🗣 Commented on [#41](https://github.com/bsoc-bitbyte/GetIt/issues/41) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 🗣 Commented on [#336](https://github.com/zowe/zlux-editor/issues/336) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
-6. 🗣 Commented on [#209](https://github.com/zowe/zlux-file-explorer/issues/209) in [zowe/zlux-file-explorer](https://github.com/zowe/zlux-file-explorer)
-7. 🗣 Commented on [#531](https://github.com/zowe/zlux-app-manager/issues/531) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
-8. 🗣 Commented on [#335](https://github.com/zowe/zlux-editor/issues/335) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
-9. 🗣 Commented on [#41](https://github.com/bsoc-bitbyte/GetIt/issues/41) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-10. 💪 Opened PR [#41](https://github.com/bsoc-bitbyte/GetIt/pull/41) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+1. ❗ Opened issue [#46](https://github.com/bsoc-bitbyte/BSoC-Website/issues/46) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+2. 🗣 Commented on [#34](https://github.com/bsoc-bitbyte/BSoC-Website/issues/34) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+3. 🗣 Commented on [#43](https://github.com/bsoc-bitbyte/BSoC-Website/issues/43) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+4. 🗣 Commented on [#11](https://github.com/bsoc-bitbyte/GetIt/issues/11) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. 🗣 Commented on [#41](https://github.com/bsoc-bitbyte/GetIt/issues/41) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. 🗣 Commented on [#41](https://github.com/bsoc-bitbyte/GetIt/issues/41) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+7. 🗣 Commented on [#336](https://github.com/zowe/zlux-editor/issues/336) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
+8. 🗣 Commented on [#209](https://github.com/zowe/zlux-file-explorer/issues/209) in [zowe/zlux-file-explorer](https://github.com/zowe/zlux-file-explorer)
+9. 🗣 Commented on [#531](https://github.com/zowe/zlux-app-manager/issues/531) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
+10. 🗣 Commented on [#335](https://github.com/zowe/zlux-editor/issues/335) in [zowe/zlux-editor](https://github.com/zowe/zlux-editor)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
