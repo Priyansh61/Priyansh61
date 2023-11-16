@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/bsoc-bitbyte/GetIt/pull/101) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. 🗣 Commented on [#101](https://github.com/bsoc-bitbyte/GetIt/pull/101#issuecomment-1814611919) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 💪 Opened PR [#103](https://github.com/bsoc-bitbyte/GetIt/pull/103) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. 💪 Opened PR [#102](https://github.com/bsoc-bitbyte/GetIt/pull/102) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. ❗ Opened issue [#54](https://github.com/BitByte-TPC/TPC-website/issues/54) in [BitByte-TPC/TPC-website](https://github.com/BitByte-TPC/TPC-website)
-6. 🗣 Commented on [#531](https://github.com/zowe/zlux-app-manager/pull/531#issuecomment-1694214972) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
-7. 🗣 Commented on [#541](https://github.com/zowe/zlux-app-manager/pull/541#issuecomment-1691900392) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
-8. 💪 Opened PR [#541](https://github.com/zowe/zlux-app-manager/pull/541) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
-9. ❌ Closed PR [#540](https://github.com/zowe/zlux-app-manager/pull/540) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
-10. 💪 Opened PR [#540](https://github.com/zowe/zlux-app-manager/pull/540) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
+1. 🎉 Merged PR [#102](https://github.com/bsoc-bitbyte/GetIt/pull/102) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 🎉 Merged PR [#101](https://github.com/bsoc-bitbyte/GetIt/pull/101) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🗣 Commented on [#101](https://github.com/bsoc-bitbyte/GetIt/pull/101#issuecomment-1814611919) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. 💪 Opened PR [#103](https://github.com/bsoc-bitbyte/GetIt/pull/103) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. 💪 Opened PR [#102](https://github.com/bsoc-bitbyte/GetIt/pull/102) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. ❗ Opened issue [#54](https://github.com/BitByte-TPC/TPC-website/issues/54) in [BitByte-TPC/TPC-website](https://github.com/BitByte-TPC/TPC-website)
+7. 🗣 Commented on [#531](https://github.com/zowe/zlux-app-manager/pull/531#issuecomment-1694214972) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
+8. 🗣 Commented on [#541](https://github.com/zowe/zlux-app-manager/pull/541#issuecomment-1691900392) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
+9. 💪 Opened PR [#541](https://github.com/zowe/zlux-app-manager/pull/541) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
+10. ❌ Closed PR [#540](https://github.com/zowe/zlux-app-manager/pull/540) in [zowe/zlux-app-manager](https://github.com/zowe/zlux-app-manager)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
