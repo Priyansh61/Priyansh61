@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/bsoc-bitbyte/GetIt/pull/116#issuecomment-1911862804) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. 🎉 Merged PR [#113](https://github.com/bsoc-bitbyte/GetIt/pull/113) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 🗣 Commented on [#113](https://github.com/bsoc-bitbyte/GetIt/pull/113#issuecomment-1902731252) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. ❗ Opened issue [#120](https://github.com/bsoc-bitbyte/GetIt/issues/120) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 💪 Opened PR [#119](https://github.com/bsoc-bitbyte/GetIt/pull/119) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. ❗ Opened issue [#112](https://github.com/bsoc-bitbyte/GetIt/issues/112) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-7. 💪 Opened PR [#106](https://github.com/bsoc-bitbyte/GetIt/pull/106) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-8. 🗣 Commented on [#35](https://github.com/BitByte-TPC/Aperta-Fons/pull/35#issuecomment-1848589827) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
-9. 🗣 Commented on [#104](https://github.com/bsoc-bitbyte/GetIt/pull/104#issuecomment-1840307300) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-10. 🗣 Commented on [#104](https://github.com/bsoc-bitbyte/GetIt/pull/104#issuecomment-1817551788) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+1. 🎉 Merged PR [#122](https://github.com/bsoc-bitbyte/GetIt/pull/122) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 🗣 Commented on [#116](https://github.com/bsoc-bitbyte/GetIt/pull/116#issuecomment-1911862804) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🎉 Merged PR [#113](https://github.com/bsoc-bitbyte/GetIt/pull/113) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. 🗣 Commented on [#113](https://github.com/bsoc-bitbyte/GetIt/pull/113#issuecomment-1902731252) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. ❗ Opened issue [#120](https://github.com/bsoc-bitbyte/GetIt/issues/120) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. 💪 Opened PR [#119](https://github.com/bsoc-bitbyte/GetIt/pull/119) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+7. ❗ Opened issue [#112](https://github.com/bsoc-bitbyte/GetIt/issues/112) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+8. 💪 Opened PR [#106](https://github.com/bsoc-bitbyte/GetIt/pull/106) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+9. 🗣 Commented on [#35](https://github.com/BitByte-TPC/Aperta-Fons/pull/35#issuecomment-1848589827) in [BitByte-TPC/Aperta-Fons](https://github.com/BitByte-TPC/Aperta-Fons)
+10. 🗣 Commented on [#104](https://github.com/bsoc-bitbyte/GetIt/pull/104#issuecomment-1840307300) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
