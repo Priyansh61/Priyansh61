@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/bsoc-bitbyte/GetIt/pull/136) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. 🎉 Merged PR [#133](https://github.com/bsoc-bitbyte/GetIt/pull/133) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. 🔒 Closed issue [#107](https://github.com/bsoc-bitbyte/GetIt/issues/107) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-4. 🎉 Merged PR [#132](https://github.com/bsoc-bitbyte/GetIt/pull/132) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 🔒 Closed issue [#118](https://github.com/bsoc-bitbyte/GetIt/issues/118) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. 🎉 Merged PR [#130](https://github.com/bsoc-bitbyte/GetIt/pull/130) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-7. 🎉 Merged PR [#131](https://github.com/bsoc-bitbyte/GetIt/pull/131) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-8. 💪 Opened PR [#5](https://github.com/Priyansh61/HackThisFall/pull/5) in [Priyansh61/HackThisFall](https://github.com/Priyansh61/HackThisFall)
-9. ❗ Opened issue [#127](https://github.com/bsoc-bitbyte/GetIt/issues/127) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-10. ❗ Opened issue [#126](https://github.com/bsoc-bitbyte/GetIt/issues/126) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+1. 🎉 Merged PR [#135](https://github.com/bsoc-bitbyte/GetIt/pull/135) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 💪 Opened PR [#136](https://github.com/bsoc-bitbyte/GetIt/pull/136) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🎉 Merged PR [#133](https://github.com/bsoc-bitbyte/GetIt/pull/133) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. 🔒 Closed issue [#107](https://github.com/bsoc-bitbyte/GetIt/issues/107) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+5. 🎉 Merged PR [#132](https://github.com/bsoc-bitbyte/GetIt/pull/132) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+6. 🔒 Closed issue [#118](https://github.com/bsoc-bitbyte/GetIt/issues/118) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+7. 🎉 Merged PR [#130](https://github.com/bsoc-bitbyte/GetIt/pull/130) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+8. 🎉 Merged PR [#131](https://github.com/bsoc-bitbyte/GetIt/pull/131) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+9. 💪 Opened PR [#5](https://github.com/Priyansh61/HackThisFall/pull/5) in [Priyansh61/HackThisFall](https://github.com/Priyansh61/HackThisFall)
+10. ❗ Opened issue [#127](https://github.com/bsoc-bitbyte/GetIt/issues/127) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
