@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/DivergentEuropeans/loser-simulator/issues/2#issuecomment-2027586529) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
-2. 🗣 Commented on [#9](https://github.com/DivergentEuropeans/loser-simulator/issues/9#issuecomment-2027564110) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
-3. 🗣 Commented on [#10](https://github.com/DivergentEuropeans/loser-simulator/issues/10#issuecomment-2027559976) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
-4. 🗣 Commented on [#143](https://github.com/bsoc-bitbyte/GetIt/pull/143#issuecomment-2016911430) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 💪 Opened PR [#143](https://github.com/bsoc-bitbyte/GetIt/pull/143) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. 🗣 Commented on [#142](https://github.com/bsoc-bitbyte/GetIt/pull/142#issuecomment-2016713786) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-7. 🗣 Commented on [#142](https://github.com/bsoc-bitbyte/GetIt/pull/142#issuecomment-2016713673) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-8. 🎉 Merged PR [#141](https://github.com/bsoc-bitbyte/GetIt/pull/141) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-9. 💪 Opened PR [#141](https://github.com/bsoc-bitbyte/GetIt/pull/141) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-10. 🎉 Merged PR [#75](https://github.com/BitByte-TPC/hackbyte/pull/75) in [BitByte-TPC/hackbyte](https://github.com/BitByte-TPC/hackbyte)
+1. 🗣 Commented on [#1356](https://github.com/FusionIIIT/Fusion/pull/1356#issuecomment-2048174509) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+2. 🗣 Commented on [#1409](https://github.com/FusionIIIT/Fusion/pull/1409#issuecomment-2048173219) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+3. 🗣 Commented on [#1410](https://github.com/FusionIIIT/Fusion/pull/1410#issuecomment-2048171951) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+4. 🗣 Commented on [#1412](https://github.com/FusionIIIT/Fusion/pull/1412#issuecomment-2048169594) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+5. 🗣 Commented on [#1413](https://github.com/FusionIIIT/Fusion/pull/1413#issuecomment-2048167912) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+6. 🗣 Commented on [#1414](https://github.com/FusionIIIT/Fusion/pull/1414#issuecomment-2048154110) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+7. 🗣 Commented on [#2](https://github.com/DivergentEuropeans/loser-simulator/issues/2#issuecomment-2027586529) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
+8. 🗣 Commented on [#9](https://github.com/DivergentEuropeans/loser-simulator/issues/9#issuecomment-2027564110) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
+9. 🗣 Commented on [#10](https://github.com/DivergentEuropeans/loser-simulator/issues/10#issuecomment-2027559976) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
+10. 🗣 Commented on [#143](https://github.com/bsoc-bitbyte/GetIt/pull/143#issuecomment-2016911430) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
