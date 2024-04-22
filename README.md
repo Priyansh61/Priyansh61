@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#166](https://github.com/bsoc-bitbyte/GetIt/pull/166) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-2. 🗣 Commented on [#166](https://github.com/bsoc-bitbyte/GetIt/pull/166#issuecomment-2066779403) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-3. ❌ Closed PR [#1491](https://github.com/FusionIIIT/Fusion/pull/1491) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-4. 🎉 Merged PR [#1492](https://github.com/FusionIIIT/Fusion/pull/1492) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-5. 🗣 Commented on [#1492](https://github.com/FusionIIIT/Fusion/pull/1492#issuecomment-2063986405) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-6. ❌ Closed PR [#1473](https://github.com/FusionIIIT/Fusion/pull/1473) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-7. ❗ Opened issue [#169](https://github.com/bsoc-bitbyte/GetIt/issues/169) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-8. 🗣 Commented on [#166](https://github.com/bsoc-bitbyte/GetIt/pull/166#issuecomment-2063151400) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-9. 🎉 Merged PR [#1480](https://github.com/FusionIIIT/Fusion/pull/1480) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-10. 🎉 Merged PR [#1481](https://github.com/FusionIIIT/Fusion/pull/1481) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+1. 🎉 Merged PR [#173](https://github.com/bsoc-bitbyte/GetIt/pull/173) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+2. 🎉 Merged PR [#166](https://github.com/bsoc-bitbyte/GetIt/pull/166) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+3. 🗣 Commented on [#166](https://github.com/bsoc-bitbyte/GetIt/pull/166#issuecomment-2066779403) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+4. ❌ Closed PR [#1491](https://github.com/FusionIIIT/Fusion/pull/1491) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+5. 🎉 Merged PR [#1492](https://github.com/FusionIIIT/Fusion/pull/1492) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+6. 🗣 Commented on [#1492](https://github.com/FusionIIIT/Fusion/pull/1492#issuecomment-2063986405) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+7. ❌ Closed PR [#1473](https://github.com/FusionIIIT/Fusion/pull/1473) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+8. ❗ Opened issue [#169](https://github.com/bsoc-bitbyte/GetIt/issues/169) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+9. 🗣 Commented on [#166](https://github.com/bsoc-bitbyte/GetIt/pull/166#issuecomment-2063151400) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+10. 🎉 Merged PR [#1480](https://github.com/FusionIIIT/Fusion/pull/1480) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
