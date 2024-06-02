@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/DivergentEuropeans/loser-simulator/pull/17) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
-2. 🗣 Commented on [#1](https://github.com/DivergentEuropeans/loser-simulator/pull/1#issuecomment-2120561168) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
-3. 🗣 Commented on [#2](https://github.com/DivergentEuropeans/loser-simulator/issues/2#issuecomment-2115848092) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
-4. 🎉 Merged PR [#177](https://github.com/bsoc-bitbyte/GetIt/pull/177) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-5. 🗣 Commented on [#179](https://github.com/bsoc-bitbyte/GetIt/pull/179#issuecomment-2077162252) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-6. 🎉 Merged PR [#1553](https://github.com/FusionIIIT/Fusion/pull/1553) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-7. 🗣 Commented on [#1553](https://github.com/FusionIIIT/Fusion/pull/1553#issuecomment-2076288783) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-8. 🗣 Commented on [#1553](https://github.com/FusionIIIT/Fusion/pull/1553#issuecomment-2076288267) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-9. 🗣 Commented on [#1553](https://github.com/FusionIIIT/Fusion/pull/1553#issuecomment-2076261025) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
-10. 🎉 Merged PR [#1557](https://github.com/FusionIIIT/Fusion/pull/1557) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+1. 🎉 Merged PR [#63](https://github.com/bsoc-bitbyte/BSoC-Website/pull/63) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+2. 🗣 Commented on [#63](https://github.com/bsoc-bitbyte/BSoC-Website/pull/63#issuecomment-2143714997) in [bsoc-bitbyte/BSoC-Website](https://github.com/bsoc-bitbyte/BSoC-Website)
+3. 💪 Opened PR [#17](https://github.com/DivergentEuropeans/loser-simulator/pull/17) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
+4. 🗣 Commented on [#1](https://github.com/DivergentEuropeans/loser-simulator/pull/1#issuecomment-2120561168) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
+5. 🗣 Commented on [#2](https://github.com/DivergentEuropeans/loser-simulator/issues/2#issuecomment-2115848092) in [DivergentEuropeans/loser-simulator](https://github.com/DivergentEuropeans/loser-simulator)
+6. 🎉 Merged PR [#177](https://github.com/bsoc-bitbyte/GetIt/pull/177) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+7. 🗣 Commented on [#179](https://github.com/bsoc-bitbyte/GetIt/pull/179#issuecomment-2077162252) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
+8. 🎉 Merged PR [#1553](https://github.com/FusionIIIT/Fusion/pull/1553) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+9. 🗣 Commented on [#1553](https://github.com/FusionIIIT/Fusion/pull/1553#issuecomment-2076288783) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+10. 🗣 Commented on [#1553](https://github.com/FusionIIIT/Fusion/pull/1553#issuecomment-2076288267) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
