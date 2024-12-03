@@ -94,15 +94,15 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Priyansh61/PanCanada/pull/2) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-2. 🎉 Merged PR [#1](https://github.com/Priyansh61/PanCanada/pull/1) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-3. 🎉 Merged PR [#3](https://github.com/Priyansh61/Socialisthan/pull/3) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-4. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500595104) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-5. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500469077) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-6. 🎉 Merged PR [#2](https://github.com/Priyansh61/Socialisthan/pull/2) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-7. 🎉 Merged PR [#1](https://github.com/Priyansh61/Socialisthan/pull/1) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-8. ❗ Opened issue [#220](https://github.com/bsoc-bitbyte/GetIt/issues/220) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
-9. 🎉 Merged PR [#1557](https://github.com/FusionIIIT/Fusion/pull/1557) in [FusionIIIT/Fusion](https://github.com/FusionIIIT/Fusion)
+1. 🎉 Merged PR [#3](https://github.com/Priyansh61/PanCanada/pull/3) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+2. 🎉 Merged PR [#2](https://github.com/Priyansh61/PanCanada/pull/2) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+3. 🎉 Merged PR [#1](https://github.com/Priyansh61/PanCanada/pull/1) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+4. 🎉 Merged PR [#3](https://github.com/Priyansh61/Socialisthan/pull/3) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+5. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500595104) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+6. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500469077) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+7. 🎉 Merged PR [#2](https://github.com/Priyansh61/Socialisthan/pull/2) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+8. 🎉 Merged PR [#1](https://github.com/Priyansh61/Socialisthan/pull/1) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+9. ❗ Opened issue [#220](https://github.com/bsoc-bitbyte/GetIt/issues/220) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 10. 🔒 Closed issue [#161](https://github.com/bsoc-bitbyte/GetIt/issues/161) in [bsoc-bitbyte/GetIt](https://github.com/bsoc-bitbyte/GetIt)
 <!--END_SECTION:activity-->
 
