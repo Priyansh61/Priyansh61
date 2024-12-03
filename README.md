@@ -94,16 +94,16 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-2. 💪 Opened PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-3. 🎉 Merged PR [#3](https://github.com/Priyansh61/PanCanada/pull/3) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-4. 🎉 Merged PR [#2](https://github.com/Priyansh61/PanCanada/pull/2) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-5. 🎉 Merged PR [#1](https://github.com/Priyansh61/PanCanada/pull/1) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
-6. 🎉 Merged PR [#3](https://github.com/Priyansh61/Socialisthan/pull/3) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-7. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500595104) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-8. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500469077) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-9. 🎉 Merged PR [#2](https://github.com/Priyansh61/Socialisthan/pull/2) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
-10. 🎉 Merged PR [#1](https://github.com/Priyansh61/Socialisthan/pull/1) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+1. 🎉 Merged PR [#5](https://github.com/Priyansh61/PanCanada/pull/5) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+2. 🎉 Merged PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+3. 💪 Opened PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+4. 🎉 Merged PR [#3](https://github.com/Priyansh61/PanCanada/pull/3) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+5. 🎉 Merged PR [#2](https://github.com/Priyansh61/PanCanada/pull/2) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+6. 🎉 Merged PR [#1](https://github.com/Priyansh61/PanCanada/pull/1) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+7. 🎉 Merged PR [#3](https://github.com/Priyansh61/Socialisthan/pull/3) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+8. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500595104) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+9. 🗣 Commented on [#3](https://github.com/Priyansh61/Socialisthan/pull/3#issuecomment-2500469077) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
+10. 🎉 Merged PR [#2](https://github.com/Priyansh61/Socialisthan/pull/2) in [Priyansh61/Socialisthan](https://github.com/Priyansh61/Socialisthan)
 <!--END_SECTION:activity-->
 
 <h2>Some Stats 💪</h2>
