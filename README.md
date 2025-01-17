@@ -115,7 +115,7 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2022 - To: 14 January 2025
+From: 16 October 2022 - To: 15 January 2025
 
 Total Time: 549 hrs 37 mins
 
