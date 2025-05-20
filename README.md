@@ -94,7 +94,7 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Priyansh61/PanCanada/pull/5) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
+1. 💪 Opened PR [#8](https://github.com/Priyansh61/WebWorldRecords/pull/8) in [Priyansh61/WebWorldRecords](https://github.com/Priyansh61/WebWorldRecords)
 2. 🎉 Merged PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
 3. 💪 Opened PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
 4. 🎉 Merged PR [#3](https://github.com/Priyansh61/PanCanada/pull/3) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
