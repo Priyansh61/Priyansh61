@@ -94,7 +94,7 @@ hobbies: ["Reading", "Wrinting", "Fabrication", "IoT"]
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Priyansh61/WebWorldRecords/pull/8) in [Priyansh61/WebWorldRecords](https://github.com/Priyansh61/WebWorldRecords)
+1. 🗣 Commented on [#23749](https://github.com/calcom/cal.com/issues/23749#issuecomment-3290882716) in [calcom/cal.com](https://github.com/calcom/cal.com)
 2. 🎉 Merged PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
 3. 💪 Opened PR [#4](https://github.com/Priyansh61/PanCanada/pull/4) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
 4. 🎉 Merged PR [#3](https://github.com/Priyansh61/PanCanada/pull/3) in [Priyansh61/PanCanada](https://github.com/Priyansh61/PanCanada)
